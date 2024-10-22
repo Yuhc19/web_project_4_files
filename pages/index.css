@@ -44,3 +44,7 @@
   display: flex;
   justify-content: space-between;
 }
+
+.header__image {
+  position: absolute;
+}
