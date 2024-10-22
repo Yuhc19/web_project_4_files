@@ -29,3 +29,13 @@
   height: 80px;
   width: 58px;
 }
+
+.nav__links {
+  display: flex;
+  flex-direction: row;
+  column-gap: 20px;
+  max-width: 636px;
+  margin: 8px 0 0;
+  padding: 0;
+  list-style-type: none;
+}
