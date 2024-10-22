@@ -24,3 +24,8 @@
   display: flex;
   justify-content: space-between;
 }
+
+.nav__logo {
+  height: 80px;
+  width: 58px;
+}
