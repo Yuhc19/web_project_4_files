@@ -76,11 +76,15 @@
 }
 
 .header__footer {
-  margin-left: 80px;
-  margin-bottom: 40px;
+  position: absolute;
+  bottom: 40px;
+  left: 80px;
 }
 
 .header__address {
   margin-right: 80px;
   margin-bottom: 40px;
+  position: absolute;
+  bottom: 40px;
+  right: 80px;
 }
