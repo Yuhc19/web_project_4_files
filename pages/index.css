@@ -69,6 +69,7 @@
   margin-left: 80px;
   margin-bottom: 28px;
   margin-top: 183px;
+  overflow: visible;
 }
 
 .header__description {
@@ -81,6 +82,7 @@
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  margin-top: auto;
 }
 
 .header__schedule {
