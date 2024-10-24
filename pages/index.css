@@ -171,6 +171,7 @@
 }
 
 .recipes__video-caption {
+  margin-top: 24px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
