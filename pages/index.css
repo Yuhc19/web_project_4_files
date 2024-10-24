@@ -124,3 +124,8 @@
   margin-right: 80px;
   margin-bottom: 40px;
 }
+
+.recipes {
+  background-image: url(../images/background_recipes.svg);
+  background-color: #0a2750;
+}
