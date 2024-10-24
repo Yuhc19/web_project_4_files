@@ -148,11 +148,12 @@
 
 .recipes__videos {
   display: flex;
-  align-items: center;
+  justify-content: center;
   flex-direction: row;
+  margin-bottom: 215px;
 }
 
-.video-item {
+.recipes__video-item {
   width: 480px;
   height: 273px;
 }
